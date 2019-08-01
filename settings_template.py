@@ -1,9 +1,9 @@
 # Rename this file to settings.py
 
-# Your UPS username
+# Your company username
 USERNAME = ''
 
-# Your UPS password
+# Your company password
 PASS = ''
 
 # A Census API key you can request here: https://api.census.gov/data/key_signup.html
